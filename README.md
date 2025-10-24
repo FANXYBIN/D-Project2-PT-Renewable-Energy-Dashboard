@@ -50,4 +50,12 @@ The dashboard helps PowerTrust identify high-performing projects, track emission
 - Tableau dashboard design & interactivity  
 - Data preparation and calculated fields  
 - Emission and energy analytics  
-- Insight-driven storytelling for sustainability  
+- Insight-driven storytelling for sustainability
+
+---
+
+### 🖥️ Dashboard
+
+![](images/PT%20Dashboard.png)
+![](images/PT%20Dashboard_India.png)
+![](images/PT%20Dashboard_India2.png)
